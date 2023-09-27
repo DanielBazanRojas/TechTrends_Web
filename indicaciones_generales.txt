@@ -1,0 +1,14 @@
+NO SE LES OCURRA MEZCLAR ARCHIVOS
+
+Existen carpetas para lo basico, asi que es probable que tengan que crear mas, pero la organizacion es lo mas importante aca,
+no vayan a meter hojas de estilos dentro de la carpeta para scripts o fuera de las carpetas junto al index, al gitignore y asi
+procuren sobre todo la organizacion de los archivos, para que si tenemos que cambiar alguna cosa, no se nos extienda demasiado,
+porque si tenemos el tiempo para hacer el proyecto como me gustaria, entonces vamos a llenarnos de archivos y cosas. 
+
+Asi que repito, pueden crear sus carpetas si necesitan, pero recuerden avisar por el grupo, para que si alguien ya creó una carpeta
+o algo para la misma funcionalidad, entonces que tengan el mismo nombre o misma ruta.
+
+Tambien procuren entender bien el gitignore para que puedan trabajar tranquilos y tener sus carpetas de "testing", para que no las
+suban al repo y se cree un desorden de carpetas de pruebas.
+
+Seguramente a lo largo del proyecto hagan que este archivo crezca, asi que de momento eso es todo.
