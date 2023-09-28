@@ -1,0 +1,10 @@
+#EXPLICACION DEL .gitignore
+#
+#Me gustaria que si no lo saben lo investiguen, pero aqui solo deben escribir los archivos/carpetas/etc, que quieran que git ignore y no
+#guarde o suba al repo... Archivos de sus ramas que usen para guiarse en algo o yo que se, cosas que son suyas y no necesarias para el
+#proyecto, escribanlas aca, de preferencia con una señalizacion de que son, y no se subiran o añadiran al repositorio
+
+
+
+# Carpeta creada por VS Code
+.vscode/

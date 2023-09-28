@@ -1,0 +1,4 @@
+Aqui van a poner los htmls de las otras paginas, sientanse libres de nuevo, de crear sus carpetas para organizarse, aunque aqui creo que
+no va a ser tan necesario, solo una configuracion para la tienda y tal.
+
+Pero si le ven mas necesidad, son libres de hacerlo.

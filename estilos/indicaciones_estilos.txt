@@ -1,0 +1,3 @@
+Aqui van a estar los archivos de hojas de estilos para los htmls, como con todas las carpetas, sientanse
+libres de agregar las carpetas que crean necesarias, pero coordinen con el grupo por sea caso alguien ya
+haya creado una para el mismo uso, tengan el mismo nombre, porque esto es un proyecto en conjunto.
