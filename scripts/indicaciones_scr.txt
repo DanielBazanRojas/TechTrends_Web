@@ -1,0 +1,3 @@
+Aqui van a ir los scripts de javascript que vayan haciendo, aunque mayoritariamente seran muchos archivos
+pequeños, con funciones especificas. Algo parecido a los componentes porque, de hecho los componentes son
+hechos con javascript xd.

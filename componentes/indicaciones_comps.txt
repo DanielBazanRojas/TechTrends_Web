@@ -1,0 +1,4 @@
+Aqui van a guardar los componentes que vayan realizando, son comunmente usados para reutilizar codigo,
+recuerden ser eficientes y ordenados en su trabajo.
+
+Pueden crear mas carpetas dentro de esta carpeta, de hecho seria lo ideal, para cada componente que quieran guardar/usar.
